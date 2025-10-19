@@ -1,1 +1,2 @@
-22
+https://raw.githubusercontent.com/wei6920/yxCDNIP/refs/heads/main/ip.txt
+https://raw.githubusercontent.com/wei6920/yxCDNIP/refs/heads/main/CDN%20IPv4.txt
